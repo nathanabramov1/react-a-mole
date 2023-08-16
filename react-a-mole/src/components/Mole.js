@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import moleImg from '../mole.png'
+import moleImg from './mole.png'
 
 const Mole = (props) => {
 
